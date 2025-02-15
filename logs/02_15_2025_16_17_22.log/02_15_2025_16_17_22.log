@@ -1,0 +1,3 @@
+[ 2025-02-15 16:17:22,874 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-15 16:17:22,878 ] 97 werkzeug - INFO -  * Debugger PIN: 182-615-732
+[ 2025-02-15 16:17:31,484 ] 97 werkzeug - INFO -  * Detected change in 'C:\\PROJECTS\\End-to-End-ML-project-Student-Performance-indicator\\app.py', reloading

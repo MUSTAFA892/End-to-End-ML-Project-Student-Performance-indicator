@@ -1,0 +1,6 @@
+[ 2025-02-15 16:30:00,382 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-15 16:30:00,384 ] 97 werkzeug - INFO -  * Debugger PIN: 182-615-732
+[ 2025-02-15 16:30:04,714 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:30:04] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-02-15 16:30:19,506 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:30:19] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-02-15 16:37:11,494 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Feb/2025 16:37:11] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-02-15 16:38:00,379 ] 97 werkzeug - INFO -  * Detected change in 'C:\\PROJECTS\\End-to-End-ML-project-Student-Performance-indicator\\app.py', reloading
